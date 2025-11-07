@@ -14,7 +14,7 @@ For debian based linux os
 ```bash
 sudo apt install python3 -y
 git clone https://github.com/Safin-Mohammad/Text-to-Hash
-cd text-hash.py
+cd Text-to-Hash
 sudo pip3 install hashlib
 python3 text-hash.py
 ```
@@ -24,7 +24,7 @@ For termux
 pkg install python -y
 pkg install git -y
 git clone https://github.com/Safin-Mohammad/Text-to-Hash
-cd text-hash.py
+cd Text-to-Hash
 pip install hashlib
 python text-hash.py
 ```
@@ -34,7 +34,7 @@ For arch based linux os
 ```bash
 sudo pacman -Sy python3 -y
 git clone https://github.com/Safin-Mohammad/Text-to-Hash
-cd text-hash.py
+cd Text-to-Hash
 sudo pacnman -S python-hashlib
 python3 text-hash.py
 ```
