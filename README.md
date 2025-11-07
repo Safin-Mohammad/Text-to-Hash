@@ -4,7 +4,6 @@ Secure password and txt file by turning into hash
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/qkR3Rpd.png)
 ![App Screenshot](https://imgur.com/c8xXCja.png)
 ![App Screenshot](https://imgur.com/bZtCTHP.png)
 
